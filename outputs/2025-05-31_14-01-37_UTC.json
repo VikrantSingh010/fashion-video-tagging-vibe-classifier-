@@ -1,0 +1,522 @@
+{
+  "video_id": "2025-05-31_14-01-37_UTC",
+  "frames": [
+    {
+      "frame_file": "frame_0000.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.715,
+          "bbox": [
+            281.57,
+            408.17,
+            256.15,
+            303.41
+          ],
+          "frame_number": 0
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.627,
+          "bbox": [
+            235.4,
+            687.09,
+            406.26,
+            593.59
+          ],
+          "frame_number": 0
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0001.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.548,
+          "bbox": [
+            186.31,
+            262.21,
+            387.33,
+            448.65
+          ],
+          "frame_number": 1
+        },
+        {
+          "class_name": "bag",
+          "confidence": 0.49,
+          "bbox": [
+            511.69,
+            301.18,
+            190.24,
+            978.11
+          ],
+          "frame_number": 1
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.48,
+          "bbox": [
+            135.22,
+            676.84,
+            569.23,
+            607.11
+          ],
+          "frame_number": 1
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0002.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.48,
+          "bbox": [
+            75.84,
+            108.18,
+            535.42,
+            608.08
+          ],
+          "frame_number": 2
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.409,
+          "bbox": [
+            41.68,
+            683.49,
+            613.43,
+            596.5
+          ],
+          "frame_number": 2
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0003.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.428,
+          "bbox": [
+            -2.23,
+            575.68,
+            717.85,
+            710.1
+          ],
+          "frame_number": 3
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0004.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.718,
+          "bbox": [
+            -3.58,
+            609.33,
+            715.59,
+            674.63
+          ],
+          "frame_number": 4
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0005.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.759,
+          "bbox": [
+            172.33,
+            360.34,
+            431.12,
+            517.48
+          ],
+          "frame_number": 5
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.467,
+          "bbox": [
+            191.03,
+            863.61,
+            453.46,
+            409.87
+          ],
+          "frame_number": 5
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0006.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.919,
+          "bbox": [
+            346.27,
+            1025.83,
+            114.97,
+            91.38
+          ],
+          "frame_number": 6
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.899,
+          "bbox": [
+            262.88,
+            1083.82,
+            81.9,
+            114.71
+          ],
+          "frame_number": 6
+        },
+        {
+          "class_name": "dress",
+          "confidence": 0.587,
+          "bbox": [
+            262.73,
+            362.34,
+            227.84,
+            718.03
+          ],
+          "frame_number": 6
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0007.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.933,
+          "bbox": [
+            292.75,
+            1122.71,
+            67.79,
+            136.45
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "dress",
+          "confidence": 0.847,
+          "bbox": [
+            244.84,
+            355.76,
+            231.37,
+            768.51
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.843,
+          "bbox": [
+            356.84,
+            1064.58,
+            116.9,
+            80.18
+          ],
+          "frame_number": 7
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0008.jpg",
+      "detections": [
+        {
+          "class_name": "outer",
+          "confidence": 0.58,
+          "bbox": [
+            156.09,
+            368.86,
+            451.77,
+            639.63
+          ],
+          "frame_number": 8
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0009.jpg",
+      "detections": [
+        {
+          "class_name": "outer",
+          "confidence": 0.452,
+          "bbox": [
+            122.33,
+            353.24,
+            495.68,
+            697.74
+          ],
+          "frame_number": 9
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0011.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.509,
+          "bbox": [
+            81.22,
+            391.36,
+            534.59,
+            834.71
+          ],
+          "frame_number": 11
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0012.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.599,
+          "bbox": [
+            63.63,
+            467.13,
+            575.21,
+            354.24
+          ],
+          "frame_number": 12
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.474,
+          "bbox": [
+            155.99,
+            910.64,
+            454.99,
+            366.45
+          ],
+          "frame_number": 12
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0013.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.576,
+          "bbox": [
+            45.44,
+            426.37,
+            612.7,
+            855.94
+          ],
+          "frame_number": 13
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0015.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.509,
+          "bbox": [
+            18.07,
+            401.44,
+            668.12,
+            881.94
+          ],
+          "frame_number": 15
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0017.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.951,
+          "bbox": [
+            320.94,
+            1105.0,
+            100.62,
+            154.14
+          ],
+          "frame_number": 17
+        },
+        {
+          "class_name": "dress",
+          "confidence": 0.936,
+          "bbox": [
+            109.85,
+            212.86,
+            380.57,
+            840.85
+          ],
+          "frame_number": 17
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.906,
+          "bbox": [
+            244.28,
+            1085.82,
+            57.84,
+            147.15
+          ],
+          "frame_number": 17
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0018.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.929,
+          "bbox": [
+            114.92,
+            195.35,
+            399.82,
+            841.66
+          ],
+          "frame_number": 18
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.923,
+          "bbox": [
+            266.91,
+            1058.82,
+            55.51,
+            144.46
+          ],
+          "frame_number": 18
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.917,
+          "bbox": [
+            356.62,
+            1081.19,
+            80.77,
+            152.1
+          ],
+          "frame_number": 18
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0019.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.846,
+          "bbox": [
+            16.66,
+            316.67,
+            607.22,
+            968.13
+          ],
+          "frame_number": 19
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0020.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.771,
+          "bbox": [
+            23.02,
+            337.14,
+            586.39,
+            945.24
+          ],
+          "frame_number": 20
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0021.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.428,
+          "bbox": [
+            196.54,
+            515.18,
+            396.18,
+            765.86
+          ],
+          "frame_number": 21
+        },
+        {
+          "class_name": "dress",
+          "confidence": 0.408,
+          "bbox": [
+            196.54,
+            515.18,
+            396.18,
+            765.86
+          ],
+          "frame_number": 21
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0022.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.586,
+          "bbox": [
+            251.2,
+            558.7,
+            337.21,
+            719.2
+          ],
+          "frame_number": 22
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0023.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.899,
+          "bbox": [
+            265.43,
+            526.38,
+            336.57,
+            753.03
+          ],
+          "frame_number": 23
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0024.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.929,
+          "bbox": [
+            234.74,
+            462.1,
+            359.85,
+            816.13
+          ],
+          "frame_number": 24
+        }
+      ]
+    }
+  ]
+}

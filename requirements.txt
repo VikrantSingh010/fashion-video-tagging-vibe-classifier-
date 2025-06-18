@@ -1,0 +1,4 @@
+opencv-python
+ultralytics
+openai-clip
+faiss-cpu

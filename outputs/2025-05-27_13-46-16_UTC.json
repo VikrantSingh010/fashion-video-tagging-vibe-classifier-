@@ -1,0 +1,776 @@
+{
+  "video_id": "2025-05-27_13-46-16_UTC",
+  "frames": [
+    {
+      "frame_file": "frame_0000.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.773,
+          "bbox": [
+            249.43,
+            318.65,
+            381.83,
+            578.48
+          ],
+          "frame_number": 0
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.514,
+          "bbox": [
+            5.86,
+            753.99,
+            595.43,
+            519.36
+          ],
+          "frame_number": 0
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0001.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.806,
+          "bbox": [
+            246.28,
+            303.9,
+            389.12,
+            600.06
+          ],
+          "frame_number": 1
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.545,
+          "bbox": [
+            4.97,
+            751.94,
+            606.26,
+            522.76
+          ],
+          "frame_number": 1
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0002.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.737,
+          "bbox": [
+            255.54,
+            326.46,
+            391.25,
+            590.97
+          ],
+          "frame_number": 2
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.503,
+          "bbox": [
+            2.04,
+            771.51,
+            617.9,
+            505.85
+          ],
+          "frame_number": 2
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0003.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.779,
+          "bbox": [
+            255.9,
+            337.91,
+            396.0,
+            605.38
+          ],
+          "frame_number": 3
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.492,
+          "bbox": [
+            3.71,
+            795.32,
+            639.99,
+            484.51
+          ],
+          "frame_number": 3
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0007.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.794,
+          "bbox": [
+            471.32,
+            1058.69,
+            58.36,
+            123.12
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.637,
+          "bbox": [
+            329.1,
+            1057.69,
+            97.58,
+            105.17
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.62,
+          "bbox": [
+            325.48,
+            563.22,
+            271.67,
+            513.14
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.597,
+          "bbox": [
+            398.36,
+            329.53,
+            196.66,
+            252.1
+          ],
+          "frame_number": 7
+        },
+        {
+          "class_name": "bag",
+          "confidence": 0.475,
+          "bbox": [
+            566.48,
+            755.39,
+            79.04,
+            334.6
+          ],
+          "frame_number": 7
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0008.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.755,
+          "bbox": [
+            473.73,
+            1064.24,
+            59.55,
+            123.74
+          ],
+          "frame_number": 8
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.582,
+          "bbox": [
+            328.01,
+            562.87,
+            273.09,
+            514.85
+          ],
+          "frame_number": 8
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.566,
+          "bbox": [
+            329.49,
+            1062.96,
+            98.49,
+            104.34
+          ],
+          "frame_number": 8
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.533,
+          "bbox": [
+            401.28,
+            325.36,
+            198.78,
+            256.61
+          ],
+          "frame_number": 8
+        },
+        {
+          "class_name": "bag",
+          "confidence": 0.472,
+          "bbox": [
+            564.13,
+            751.8,
+            89.28,
+            340.99
+          ],
+          "frame_number": 8
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0009.jpg",
+      "detections": [
+        {
+          "class_name": "shoes",
+          "confidence": 0.708,
+          "bbox": [
+            473.64,
+            1062.27,
+            58.83,
+            125.37
+          ],
+          "frame_number": 9
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.612,
+          "bbox": [
+            325.86,
+            552.91,
+            276.46,
+            522.78
+          ],
+          "frame_number": 9
+        },
+        {
+          "class_name": "shoes",
+          "confidence": 0.563,
+          "bbox": [
+            324.46,
+            1062.16,
+            103.6,
+            105.46
+          ],
+          "frame_number": 9
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.54,
+          "bbox": [
+            399.8,
+            315.6,
+            201.52,
+            261.11
+          ],
+          "frame_number": 9
+        },
+        {
+          "class_name": "bag",
+          "confidence": 0.474,
+          "bbox": [
+            546.29,
+            747.43,
+            106.44,
+            345.11
+          ],
+          "frame_number": 9
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0010.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.443,
+          "bbox": [
+            3.36,
+            394.83,
+            564.16,
+            883.15
+          ],
+          "frame_number": 10
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0013.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.589,
+          "bbox": [
+            192.73,
+            324.34,
+            459.07,
+            663.92
+          ],
+          "frame_number": 13
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.578,
+          "bbox": [
+            5.2,
+            891.61,
+            710.19,
+            387.11
+          ],
+          "frame_number": 13
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0014.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.647,
+          "bbox": [
+            3.64,
+            886.76,
+            711.58,
+            391.49
+          ],
+          "frame_number": 14
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.487,
+          "bbox": [
+            179.29,
+            309.42,
+            452.88,
+            671.07
+          ],
+          "frame_number": 14
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.41,
+          "bbox": [
+            284.58,
+            316.49,
+            338.17,
+            669.3
+          ],
+          "frame_number": 14
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0015.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.554,
+          "bbox": [
+            3.56,
+            890.92,
+            711.01,
+            388.22
+          ],
+          "frame_number": 15
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.449,
+          "bbox": [
+            161.54,
+            303.39,
+            437.06,
+            686.87
+          ],
+          "frame_number": 15
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0019.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.466,
+          "bbox": [
+            5.48,
+            54.49,
+            697.64,
+            1221.83
+          ],
+          "frame_number": 19
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0022.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.419,
+          "bbox": [
+            179.06,
+            425.34,
+            347.31,
+            246.92
+          ],
+          "frame_number": 22
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0023.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.517,
+          "bbox": [
+            171.81,
+            413.87,
+            354.03,
+            262.49
+          ],
+          "frame_number": 23
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0024.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.547,
+          "bbox": [
+            161.82,
+            410.1,
+            366.89,
+            271.73
+          ],
+          "frame_number": 24
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0026.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.424,
+          "bbox": [
+            128.73,
+            750.76,
+            394.03,
+            528.56
+          ],
+          "frame_number": 26
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.403,
+          "bbox": [
+            68.8,
+            271.56,
+            425.68,
+            523.07
+          ],
+          "frame_number": 26
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0027.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.554,
+          "bbox": [
+            75.34,
+            273.12,
+            511.7,
+            543.05
+          ],
+          "frame_number": 27
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.494,
+          "bbox": [
+            149.54,
+            763.21,
+            409.72,
+            512.95
+          ],
+          "frame_number": 27
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0030.jpg",
+      "detections": [
+        {
+          "class_name": "dress",
+          "confidence": 0.411,
+          "bbox": [
+            -0.63,
+            3.24,
+            719.48,
+            1278.3
+          ],
+          "frame_number": 30
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0031.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.642,
+          "bbox": [
+            226.55,
+            362.61,
+            435.89,
+            553.99
+          ],
+          "frame_number": 31
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.588,
+          "bbox": [
+            5.4,
+            735.44,
+            661.52,
+            545.5
+          ],
+          "frame_number": 31
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0032.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.471,
+          "bbox": [
+            6.67,
+            739.08,
+            645.68,
+            541.26
+          ],
+          "frame_number": 32
+        },
+        {
+          "class_name": "top",
+          "confidence": 0.433,
+          "bbox": [
+            214.95,
+            375.17,
+            432.14,
+            543.96
+          ],
+          "frame_number": 32
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0033.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.459,
+          "bbox": [
+            6.24,
+            733.17,
+            643.62,
+            549.84
+          ],
+          "frame_number": 33
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0034.jpg",
+      "detections": [
+        {
+          "class_name": "bottom",
+          "confidence": 0.422,
+          "bbox": [
+            10.5,
+            833.58,
+            580.32,
+            452.49
+          ],
+          "frame_number": 34
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0036.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.488,
+          "bbox": [
+            -4.19,
+            -2.46,
+            717.88,
+            1275.46
+          ],
+          "frame_number": 36
+        },
+        {
+          "class_name": "bottom",
+          "confidence": 0.408,
+          "bbox": [
+            -4.19,
+            -2.46,
+            717.88,
+            1275.46
+          ],
+          "frame_number": 36
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0037.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.475,
+          "bbox": [
+            4.48,
+            9.0,
+            699.29,
+            1268.25
+          ],
+          "frame_number": 37
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0038.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.463,
+          "bbox": [
+            8.72,
+            9.3,
+            694.01,
+            1269.93
+          ],
+          "frame_number": 38
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0039.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.466,
+          "bbox": [
+            8.42,
+            9.21,
+            694.51,
+            1270.09
+          ],
+          "frame_number": 39
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0040.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.466,
+          "bbox": [
+            8.4,
+            9.21,
+            694.53,
+            1270.09
+          ],
+          "frame_number": 40
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0041.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.469,
+          "bbox": [
+            8.45,
+            9.35,
+            694.4,
+            1269.91
+          ],
+          "frame_number": 41
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0042.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.468,
+          "bbox": [
+            8.61,
+            9.45,
+            694.1,
+            1269.79
+          ],
+          "frame_number": 42
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0043.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.468,
+          "bbox": [
+            8.61,
+            9.44,
+            694.1,
+            1269.79
+          ],
+          "frame_number": 43
+        }
+      ]
+    },
+    {
+      "frame_file": "frame_0044.jpg",
+      "detections": [
+        {
+          "class_name": "top",
+          "confidence": 0.468,
+          "bbox": [
+            8.61,
+            9.44,
+            694.09,
+            1269.79
+          ],
+          "frame_number": 44
+        }
+      ]
+    }
+  ]
+}
