@@ -1,15 +1,42 @@
-from transformers import CLIPProcessor, CLIPModel
-from PIL import Image
 import torch
+from PIL import Image
+from transformers import CLIPProcessor, CLIPModel
+import os
+from tqdm import tqdm
 
-model = CLIPModel.from_pretrained("openai/clip-vit-large-patch14")  # Load CLIP model
-processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patch14")  # Load processor
 
-img = Image.open("frames/2025-05-31_14-01-37_UTC/frame_0003.jpg").convert("RGB")  # Open and convert image
-inputs = processor(images=img, return_tensors="pt")  # Preprocess image
+CROPPED_DIR = 'cropped'
 
-with torch.no_grad():
-    image_features = model.get_image_features(**inputs)  # Get image embedding
-    image_features = image_features / image_features.norm(dim=-1, keepdim=True)  # Normalize embedding
+clip_model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
+clip_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
 
-print(image_features)  # Print the normalized embedding vector
+clip_model.eval()
+
+clip_embeddings={}
+
+for video_id in os.listdir(CROPPED_DIR):
+    video_path=os.path.join(CROPPED_DIR,video_id)
+
+    if not os.path.isdir(video_path):
+        continue
+    for img_name in tqdm(os.listdir(video_path),desc=f"Embedding {video_id}"):
+        img_path=os.path.join(video_path,img_name)
+
+        image=Image.open(img_path).convert("RGB")
+
+        inputs=clip_processor(images=image, return_tensors="pt",padding=True)
+
+        with torch.no_grad():
+            image_features=clip_model.get_image_features(**inputs)
+        embedding=image_features[0].cpu().numpy()
+
+        clip_embeddings[f"{video_id}/{img_name}"]=embedding.tolist()
+
+
+
+import json
+with open("clip_embeddings.json","w") as f:
+    json.dump(clip_embeddings,f)
+
+print("All Embeddings saved to Clip_Embeddings")
+
